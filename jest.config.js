@@ -1,5 +1,5 @@
 module.exports = {
-	collectCoverage: false,
+	collectCoverage: true,
 	coverageProvider: "babel",
 	collectCoverageFrom: [
 		"**/*.{js,jsx,ts,tsx}",
